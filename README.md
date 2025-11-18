@@ -15,3 +15,4 @@
 |--------|------|------|
 | 🥇 初代 | [GitHub Pages版](https://sunshine-724.github.io/index-jp.html) | HTML / CSS |
 | 🥈 2代目 | [Vercel版](https://sunshine724.vercel.app/) | **Next.js / TypeScript / framer-motion / Material UI(MUI)** |
+
