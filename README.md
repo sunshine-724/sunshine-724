@@ -1,5 +1,5 @@
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://my-language-clone.vercel.app/api/top-langs/?username=sunshine-724&layout=compact&show_icons=true&theme=onedark&exclude_repo=my-language,club-member-pages" />
+  <img alt="Top Langs" height="150px" src="https://my-language-clone.vercel.app/api/top-langs/?username=sunshine-724&layout=compact&show_icons=true&theme=onedark&exclude_repo=my-language,club-member-pages&hide=ShaderLab"/>
   <img alt="github stats" height="150px" src="https://my-language-clone.vercel.app/api?username=sunshine-724&theme=onedark&show_icons=true" />
   <img alt="trophy" height="150px" src="https://github-profile-trophy-699ja0iol-sunshine-724s-projects.vercel.app/?theme=light&username=sunshine-724" />
 </p>
