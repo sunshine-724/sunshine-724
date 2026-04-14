@@ -4,6 +4,11 @@
   <img alt="trophy" height="150px" src="https://github-profile-trophy-699ja0iol-sunshine-724s-projects.vercel.app/?theme=light&username=sunshine-724" />
 </p>
 
+## 🏢 Organization  
+個人プロジェクトの新規開発は Organization 側で行っています。  
+[![sunshine724-dev](https://img.shields.io/badge/sunshine724--dev-Organization-blue?logo=github)](https://github.com/sunshine724-dev)  
+> このアカウントには、チーム開発・ポートフォリオ用のリポジトリを残しています。  
+
 <h1>HomePage(Updated at May 25)</h1>
 2代目のホームページを制作しました！  
 1代目と比べて、**デザイン・構成・技術面ともに大幅アップデート**しています。  
