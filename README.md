@@ -23,5 +23,5 @@
 [nitr0yukkuri](https://github.com/nitr0yukkuri) さんおよびコントリビューターの皆さんによって開発された  
 **[GitHub Planet](https://github.com/nitr0yukkuri/githubplanet)** を利用しています。
 
-[![GitHub Planet](https://image.thum.io/get/width/800/crop/400/noanimate/wait/8/https://githubplanet.onrender.com/card.html?username=sunshine-724&fix=true&time=1771822233757)](https://githubplanet.onrender.com/)
+[![GitHub Planet](https://image.thum.io/get/width/800/crop/400/noanimate/wait/8/https://githubplanet.onrender.com/card.html?username=sunshine-724&fix=true&time=1771822233757)](https://githubplanet.dev)
 
